@@ -1,6 +1,6 @@
 # ascii-filter
 
-本記事は![Processing Advent Calendar2024](https://adventar.org/calendars/9929)の記事です。
+本記事は[Processing Advent Calendar2024](https://adventar.org/calendars/9929)の記事です。
 
 ## アスキーとは
 
