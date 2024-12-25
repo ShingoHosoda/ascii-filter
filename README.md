@@ -36,3 +36,9 @@ $7$ビットで$0b0000000$から$0b1111111$までの番号を使い、数値に�
 色が滑らかに変化しているため文字も滑らかに変化しています。また欠点として滑らかに変化しているためアスキーでない文字も描画されます。
 
 ![グラデーションにより文字も滑らかに変化している画像](./image/Gradation3.png)
+
+## 参考文献
+
+- [プログラマのための文字コード技術入門](https://gihyo.jp/book/2019/978-4-297-10291-3)
+- [Ascii Art](https://www.shadertoy.com/view/lssGDj)
+- [PixiJS Filters](https://github.com/pixijs/filters/tree/main/src/ascii)
