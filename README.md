@@ -1,5 +1,7 @@
 # ascii-filter
 
+本記事は![Processing Advent Calendar2024](https://adventar.org/calendars/9929)の記事です。
+
 ## アスキーとは
 
 $7$ビットで$0b0000000$から$0b1111111$までの番号を使い、数値に対応する文字や数字を定めたものです。
