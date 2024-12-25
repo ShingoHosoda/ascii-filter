@@ -2,7 +2,7 @@
 
 本記事は[Processing Advent Calendar2024](https://adventar.org/calendars/9929)の記事です。
 
-なおフィルターのソースコードは[ここ](https://github.com/ShingoHosoda/ascii-filter?tab=readme-ov-file)にあります。
+なおアスキーフィルターのソースコードは[ここ](https://github.com/ShingoHosoda/ascii-filter/blob/main/src/assets/shader/filter/ascii.fragle)にあります。
 
 ## アスキーとは
 
@@ -40,6 +40,8 @@ $7$ビットで$0b0000000$から$0b1111111$までの番号を使い、数値に�
 色が滑らかに変化しているため文字も滑らかに変化しています。また欠点として滑らかに変化しているためアスキーでない文字も描画されます。
 
 ![グラデーションにより文字も滑らかに変化している画像](./image/Gradation3.png)
+
+### パーティクル
 
 ## 参考文献
 
