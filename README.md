@@ -2,6 +2,8 @@
 
 本記事は[Processing Advent Calendar2024](https://adventar.org/calendars/9929)の記事です。
 
+なおフィルターのソースコードは[ここ](https://github.com/ShingoHosoda/ascii-filter?tab=readme-ov-file)にあります。
+
 ## アスキーとは
 
 $7$ビットで$0b0000000$から$0b1111111$までの番号を使い、数値に対応する文字や数字を定めたものです。
